@@ -1,0 +1,162 @@
+@media screen and (max-width: 1920px) {
+    .navigation {
+        width: 28%;
+        right: -30%
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .navigation {
+        width: 35%;
+        right: -38%
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .navigation {
+        width: 40%;
+        right: -42%
+    }
+}
+
+@media screen and (max-width: 1030px) {
+    body,html {
+        width: 100%;
+        height: 100%;
+        min-width: 0;
+        color: #333
+    }
+}
+
+@media screen and (max-width: 940px) {
+    .navigation {
+        width: 50%;
+        right: -53%
+    }
+}
+
+@media screen and (max-width: 1920px) {
+    
+}
+
+@media screen and (max-width: 640px) {
+    .Ws-tou {
+        width: 27%
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navigation {
+        width: 70%;
+        right: -73%
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .navigation {
+        width: 80%;
+        right: -120%;
+        border-left: transparent 140px solid
+    }
+
+    .W-logo {
+        width:188px;
+        height: 40px;
+        position: fixed;
+        right: -260px;
+        bottom: 20px;
+        z-index: 444;
+        margin-right: 0;
+        line-height: 40px;
+        font-family: "微软雅黑"
+    }
+
+    .W-logo img {
+        width: 38px;
+        height: 34px;
+        margin-top: 3px;
+        float: left
+    }
+
+    .W-rem {
+        float: left;
+        font-size: 25px;
+        font-weight: 100;
+        color: #202020
+    }
+
+    .W-logo-jian {
+        float: left;
+        position: relative
+    }
+
+    .W-boke {
+        color: #595758;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 110px;
+        height: 18px;
+        line-height: 22px;
+        font-size: 14px;
+        text-align: center
+    }
+
+    .W-qq {
+        color: #fff;
+        text-align: center;
+        background: #000;
+        font-size: 14px;
+        width: 110px;
+        height: 18px;
+        position: absolute;
+        left: 0;
+        top: 20px;
+        line-height: 18px
+    }
+
+    .W-zhan {
+        float: right;
+        font-size: 25px;
+        font-weight: 100;
+        color: #202020
+    }
+
+    .Ws-tou {
+        margin: 18% auto 0;
+        width: 35%
+    }
+
+    .W-yi-bg p {
+        line-height: 1.9rem
+    }
+
+    .W-yi-bg strong {
+        margin-top: -3px;
+        line-height: 20px;
+        font-size: 17px;
+        font-weight: normal;
+        font-weight: inherit
+    }
+
+    .W-yi-bg h2 {
+        font-size: 20px
+    }
+
+    .W-yi-bg .W-p1,.W-yi-bg .W-p2 {
+        font-size: 16px
+    }
+
+    .W-yi-bg .W-mailbox {
+        font-size: 15px
+    }
+
+    .W-lian-bottom a img {
+        width: 16px;
+        height: 16px
+    }
+
+    .W-lian-bottom a {
+        line-height: 30px
+    }
+}
